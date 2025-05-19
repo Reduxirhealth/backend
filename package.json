@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"    // or "node server.js" if that's your file
+  },
+"dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "openai": "^4.29.0"
+  }
